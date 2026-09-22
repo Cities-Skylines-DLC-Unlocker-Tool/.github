@@ -7,7 +7,7 @@
 ## 🔗 Latest Release of Linua Updater
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Cities-Skylines-DLC-Unlocker-Tool/.github/releases)
   
 * **Format:** `.zip` archive
 
